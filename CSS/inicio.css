@@ -114,6 +114,19 @@
 		height: 100%;
 		opacity: 0.33;
 	}
+	.banner__h0 {
+		position: absolute;
+		display: block;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		margin: auto;
+		margin-top: 3vh;
+		text-align: center;
+		color: white;
+		font-size: 3.5vh;
+	}
 	.banner__h1 {
 		position: absolute;
 		display: block;
@@ -122,10 +135,10 @@
 		bottom: 0;
 		left: 0;
 		margin: auto;
-		margin-top: 10vw;
+		margin-top: 14vh;
 		text-align: center;
 		color: white;
-		font-size: 7vw;
+		font-size: 3.5vh;
 	}
 	.banner__h2 {
 		position: absolute;
@@ -135,10 +148,10 @@
 		bottom: 0;
 		left: 0;
 		margin: auto;
-		margin-top: 17vw;
+		margin-top: 21.5vh;
 		text-align: center;
 		color: white;
-		font-size: 5vw;
+		font-size: 3vh;
 	}
 	.banner__arrow {
 		display: none;
@@ -381,7 +394,7 @@
 		height: 100%;
 		opacity: 0.33;
 	}
-	.banner__h1 {
+	.banner__h0 {
 		position: absolute;
 		display: block;
 		top: 0;
@@ -394,7 +407,7 @@
 		color: white;
 		font-size: 6vh;
 	}
-	.banner__h2 {
+	.banner__h1 {
 		position: absolute;
 		display: block;
 		top: 0;
@@ -403,6 +416,19 @@
 		left: 0;
 		margin: auto;
 		margin-top: 35vh;
+		text-align: center;
+		color: white;
+		font-size: 6vh;
+	}
+	.banner__h2 {
+		position: absolute;
+		display: block;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		margin: auto;
+		margin-top: 45vh;
 		text-align: center;
 		color: white;
 		font-size: 4vh;
